@@ -37,6 +37,7 @@ A specialized server fork slated for our future scalable infrastructure.
 - **Frontend:** React, Vite, TypeScript
 - **Mobile:** Flutter / Dart (Recorder App)
 - **Cloud Infrastructure:** Google Cloud Storage (GCS), GCP
+- **RocketRide:** Prototyping agentic ingestion pipelines
 
 ---
 
